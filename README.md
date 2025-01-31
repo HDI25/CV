@@ -1,4 +1,4 @@
 # CV
-My roadmap.sh CV project
+CV project
 
 My first project for RoadMap.sh.
